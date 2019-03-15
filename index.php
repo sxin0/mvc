@@ -17,7 +17,7 @@ new vendor\Application($CONFIG);
  *
  * 框架入口文件
  *
- * Copyright (c)2017 http://note.hanfu8.top
+ * Copyright (c)2017 http://note.jsx6.com
  *
  * 修改历史
  * ----------------------------------------

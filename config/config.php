@@ -36,7 +36,7 @@ return [
  *
  * 框架配置文件
  *
- * Copyright (c)2017 http://note.hanfu8.top
+ * Copyright (c)2017 http://note.jsx6.com
  *
  * 修改历史
  * ----------------------------------------

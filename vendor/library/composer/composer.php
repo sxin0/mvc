@@ -20,7 +20,7 @@ $whoops->register();
 /******
  * User: 降省心
  * QQ:1348550820
- * Website: http://www.hanfu8.top
+ * Website: http://www.jsx6.com
  * Date: 2017/8/4
  * Time: 8:44
  ******/

@@ -85,7 +85,7 @@
         </li>
 
         <li>
-            <a target="_blank" href="http://note.hanfu8.top/" title="在诸子百家搜索帮助." style="color: white; font-size: 13px;">
+            <a target="_blank" href="http://note.jsx6.com/" title="在诸子百家搜索帮助." style="color: white; font-size: 13px;">
                 <!-- Google icon by Alfredo H, from https://www.iconfinder.com/alfredoh -->
                 <!-- Creative Commons (Attribution 3.0 Unported) -->
                 <!-- http://creativecommons.org/licenses/by/3.0/ -->
