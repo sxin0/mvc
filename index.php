@@ -1,15 +1,48 @@
 <?php
 
+
+//记录开始执行时间
+define('MVC_START', microtime(true));
+
 //框架入口所在目录
-define('ROOT',__DIR__.'/');
-define('VENDOR',ROOT.'vendor/');
+define('ROOT', __DIR__ . '/');
+define('VENDOR', ROOT . 'vendor/');
 
 //加载框架配置
-$CONFIG = include_once ROOT.'config/config.php';
+$CONFIG = include_once ROOT . 'config/config.php';
 
 //加载框架应用
-include_once ROOT.'vendor/Application.php';
+include_once ROOT . 'vendor/Application.php';
 new vendor\Application($CONFIG);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /**

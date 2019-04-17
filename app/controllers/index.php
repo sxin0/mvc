@@ -1,15 +1,52 @@
 <?php
+
 namespace app\controllers;
 
 
-class index
+use app\middleware\controllers;
+use app\service\indexService;
+
+class index extends controllers
 {
+
+
+    /**
+     * 异常返回
+     *
+     * @throws \Exception
+     */
+    public function apiError()
+    {
+
+        (new indexService())->apiError();
+
+    }
+
+
+    /**
+     * 正常接口返回
+     *
+     * @return array
+     */
+    public function api()
+    {
+
+        return (new indexService())->api();
+
+
+    }
+
+
+    /**
+     * view层
+     */
     public function index()
     {
-        $db = D('good');
-        $db->insert(['class_name'=>'小明','age'=>'123']);
+
+        $reg = (new indexService())->index();
+
         //p($data);die;
-        view('',['key'=>'小明']);
+        view('', ['key' => '小明', 'reg' => $reg]);
     }
 }
 
