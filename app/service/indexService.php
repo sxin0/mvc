@@ -13,6 +13,8 @@ class indexService
     public function index()
     {
 
+        //echo 'error'
+
         return (new indexModel())->index();
     }
 

@@ -60,7 +60,7 @@ class Application
             include_once VENDOR . 'library/composer/composer.php';;
         } else {
             //判断是否需要创建文件
-            $Debug_file = ROOT . 'log/' . date('Y_m_d', time()) . '.log';
+            $Debug_file = ROOT . 'logs/' . date('Y_m_d', time()) . '.log';
             if (!is_file($Debug_file)) {
                 fopen($Debug_file, 'w');
             }
