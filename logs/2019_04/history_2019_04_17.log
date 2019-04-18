@@ -1,0 +1,35 @@
+[2019-04-17 22:07:48] exceptionApi file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:24 message:this is error code:0
+[2019-04-17 22:09:23] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:24 message:this is error
+[2019-04-17 22:13:16] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:13:51] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:14:07] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:14:08] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:14:20] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:14:21] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:14:21] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:14:22] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:14:22] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:14:22] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:14:23] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:14:23] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:14:23] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:14:23] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:14:24] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:14:24] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:14:24] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:14:24] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:14:47] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:14:48] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:15:33] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:15:36] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:15:37] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:15:58] exceptionApi code:0 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:16:24] exceptionApi code:403 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:16:25] exceptionApi code:403 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:16:26] exceptionApi code:403 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:16:36] exceptionApi code:403 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:17:45] exceptionApi code:403 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:20:17] exceptionApi code:403 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:20:42] exceptionApi code:403 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:21:01] exceptionApi code:403 file:D:\phpStudy\WWW\wwwroot\mvc\app\controllers\index.php line:14 message:exception
+[2019-04-17 22:25:57] exceptionApi code:403 file:D:\phpStudy\WWW\wwwroot\mvc\app\service\indexService.php line:15 message:exception
